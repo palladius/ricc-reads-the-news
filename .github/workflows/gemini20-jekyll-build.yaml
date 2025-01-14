@@ -1,4 +1,4 @@
-name: Build and deploy Jekyll site from Gemini Advanced.
+name: "[GEMINI] Build and deploy Jekyll site from Gemini Advanced."
 
 on:
   push:
