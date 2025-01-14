@@ -4,7 +4,8 @@
 # documentation.
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: "[MS UI] Deploy Jekyll site to Pages"
+# Web created - I've only removed ruby version..
 
 on:
   # Runs on pushes targeting the default branch
