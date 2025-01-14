@@ -28,13 +28,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 #baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
-url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: palladius
 github_username:  palladius
 #bluesky_username:  palladius
 
 # Build settings
-theme: jekflix
+theme: minima
+#theme: jekflix
 plugins:
   - jekyll-feed
 
