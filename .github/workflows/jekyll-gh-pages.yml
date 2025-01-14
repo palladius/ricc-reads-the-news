@@ -5,8 +5,8 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
   # Runs on pushes targeting the default branch
+
   push:
-#    branches: ["main"]
     branches: [$default-branch]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -31,11 +31,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       # Added by Gemini..
-      - name: Install Gems  # This line is added
+      - name: 'Install Gems - ADDED BY GEMINI' # This line is added
         run: bundle install
+
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
