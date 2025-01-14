@@ -8,3 +8,4 @@ source "https://rubygems.org"
 
 gem "jekyll"
 #gem "jekflix"
+#gem 'jekflix', '~> 3.1', '>= 3.1.1'
