@@ -3,6 +3,13 @@ layout: post
 title:  "Happy 2025 by WebRicc!"
 date:   2025-01-01 10:10:34 +0100
 categories: welcome, blog
+category: blog
+tags:
+  - welcome
+  - blog
+image: https://raw.githubusercontent.com/palladius/ricc-reads-the-news/refs/heads/gh-pages/_posts/puffin-on-a-bike.png
+author: Riccardo
+
 ---
 
 ## What does 2025 bring?
