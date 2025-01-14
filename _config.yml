@@ -23,16 +23,18 @@
 title: Ricc reads the news
 email: pal.ladiusbonto.n+rrtn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
+  Yet another technology Blog from a very opinionated Italian.
+  On tech, politics and edibles.
+
+
+#baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
 url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: palladius
+github_username:  palladius
+#bluesky_username:  palladius
 
 # Build settings
-theme: minima
+theme: jekflix
 plugins:
   - jekyll-feed
 
@@ -55,3 +57,40 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+###########################################
+# Riccardo, here are jekflix only things:
+# https://github.com/thiagorossener/jekflix-template
+###########################################
+
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  # - title: Contact
+  #   url: /contact
+  # - title: Feed
+  #   url: /feed.xml
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
