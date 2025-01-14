@@ -2,9 +2,10 @@ name: Build and deploy Jekyll site from Gemini Advanced.
 
 on:
   push:
-    branches:
-      - main
+#    branches:
+#      - main
 #      - gh-pages
+    branches: [$default-branch]
 
 jobs:
   build_and_not_deploy:
