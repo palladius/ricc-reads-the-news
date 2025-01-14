@@ -23,11 +23,11 @@ jobs:
       - name: Build Jekyll site with Gemini
         run: bundle exec jekyll build
 
-      - name: Build with Jekyll from MS
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+      # - name: Build with Jekyll from MS
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     source: ./
+      #     destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
