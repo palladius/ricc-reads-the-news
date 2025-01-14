@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - gh-pages
+#      - gh-pages
 
 jobs:
   build_and_deploy:
