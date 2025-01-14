@@ -4,3 +4,6 @@ run:
 
 install:
 	bundle install
+
+push:
+	git push origin gh-pages
