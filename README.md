@@ -1,4 +1,5 @@
-Self: https://github.com/palladius/ricc-reads-the-news
+Self (code): https://github.com/palladius/ricc-reads-the-news
+Published on: https://ricc-reads-the-news.netlify.app/
 
 # ricc-reads-the-news
 

@@ -25,13 +25,19 @@ email: pal.ladiusbonto.n+rrtn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yet another technology Blog from a very opinionated Italian.
   On tech, politics and edibles.
-
+disqus_username: disqus_7JS1PTrMOB
+show_hero: true
 
 #baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
-url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ricc-reads-the-news.netlify.app/
 twitter_username: palladius
 github_username:  palladius
-#bluesky_username:  palladius
+bluesky_username:  palladius # useless..
+linkedin_username:  riccardocarlesso
+instagram_username: palladius
+facebook_username: palladius
+medium_username: palladiusbonton
 
 # Build settings
 theme: jekflix
@@ -70,8 +76,8 @@ menu:
     url: /about
   # - title: Contact
   #   url: /contact
-  # - title: Feed
-  #   url: /feed.xml
+  - title: Feed
+    url: /feed.xml
 
 # Posts Settings
 show_time_bar: true

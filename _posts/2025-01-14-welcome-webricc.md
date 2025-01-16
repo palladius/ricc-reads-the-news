@@ -15,6 +15,10 @@ author: Riccardo
 ## What does 2025 bring?
 
 Welcome to 2025! This is the first year in quite a while which starts with ZERO good proposites.
+
+## Year Resolutions
+
+![Daniela: what is New YEar resolution](/assets/images/years-resolution.png)
 As my friend Daniela said, child ask mum:
 * Child: *Mum, what are yearly propositions?*
 * Mum: *They are a weekly proposition*.
@@ -28,3 +32,8 @@ My only year proposition for 2025 is:
 
 * RAG is so 2024!
 * 2025 isd about agents, agents, agents! And something else, I'm pretty sure. Multimodal anyone?
+
+## Web Ricc
+
+[Webrick](https://github.com/ruby/webrick) is a very famous ruby gem for HTTP servers, so I thought this could be a fun
+alias for 2025 (*punxplaination*: at work, I go by ricc).
