@@ -91,6 +91,7 @@ permalink: /:title/
 collections:
   authors:
     output: true
+use_logo: false
 
 # SASS
 sass:
@@ -100,3 +101,29 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+
+
+
+# SASS
+sass:
+  style: compressed
+

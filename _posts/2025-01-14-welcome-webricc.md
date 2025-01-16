@@ -18,20 +18,20 @@ Welcome to 2025! This is the first year in quite a while which starts with ZERO 
 
 ## Year Resolutions
 
+As my friend Daniela posted on FB:
+
 ![Daniela: what is New YEar resolution](/assets/images/years-resolution.png)
-As my friend Daniela said, child ask mum:
-* Child: *Mum, what are yearly propositions?*
-* Mum: *They are a weekly proposition*.
 
-My only year proposition for 2025 is:
+My only year propositions for 2025 are:
 
-* work less. Good luck with it.
-* run a full marathon. I'm done with Ironmen for a while.
+* **work less**. Good luck with it.
+* **run a full marathon**. I'm done with Ironmen for a while, at least until my kids become independent in the morning.
 
 ## Gen AI
 
 * RAG is so 2024!
-* 2025 isd about agents, agents, agents! And something else, I'm pretty sure. Multimodal anyone?
+* 2025 is about agents, **agents**, AGENTS! And something else, I'm pretty sure. Multimodal anyone? I'm having good fun
+  with [Veo](https://deepmind.google/technologies/veo/veo-2/) right now :)
 
 ## Web Ricc
 
