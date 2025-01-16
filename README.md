@@ -21,3 +21,12 @@ Currently I'm using different skins by branch, but this is confusing for most (m
 * `gh-pages`: can't remember.
 
 Latest content, working images, and so on are in `main`, of course.
+
+## Other ricc Blogs
+
+***Hugo***
+
+* https://hugo-ananke-vecchiume.netlify.app/
+* https://ricc-papermod.netlify.app/
+* https://papermod.ricc.rocks/
+* https://sreccardo-blog.netlify.app/
