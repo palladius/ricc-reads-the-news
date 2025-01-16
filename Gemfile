@@ -39,3 +39,8 @@ gem 'webrick'
 # Jekflix
 gem 'jekflix', '~> 3.1', '>= 3.1.1'
 gem "kramdown-parser-gfm"
+
+# Ricc- added as disqus is giving a problem
+#gem 'disqus'
+# Actually this seems more pertinent: https://github.com/fabiomux/jekyll-disqus-plugin
+gem "jekyll-disqus-plugin", "~> 1.0", :group => :jekyll_plugins

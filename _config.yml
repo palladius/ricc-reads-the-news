@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Yet another technology Blog from a very opinionated Italian.
   On tech, politics and edibles.
 disqus_username: disqus_7JS1PTrMOB
-show_hero: true
+#show_hero: true
 
 #baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
 #url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com

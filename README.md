@@ -24,9 +24,15 @@ Latest content, working images, and so on are in `main`, of course.
 
 ## Other ricc Blogs
 
-***Hugo***
+***Hugo***  🦫
 
+* https://ricc.rocks/ (Main blog)
+* https://hugo-bootstrap-ricc-rocks.netlify.app/
 * https://hugo-ananke-vecchiume.netlify.app/
 * https://ricc-papermod.netlify.app/
 * https://papermod.ricc.rocks/
 * https://sreccardo-blog.netlify.app/
+
+**Jekyll** ♦️
+
+* https://ricc-reads-the-news.netlify.app/ (this one, testing in 2025 an agile weekly blog)
