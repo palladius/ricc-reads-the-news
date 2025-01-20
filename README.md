@@ -31,8 +31,8 @@ Latest content, working images, and so on are in `main`, of course.
 * https://hugo-ananke-vecchiume.netlify.app/
 * https://ricc-papermod.netlify.app/
 * https://papermod.ricc.rocks/
-* https://sreccardo-blog.netlify.app/
-
+* https://sreccardo-blog.netlify.app/ # SREccardo Blog v2
+* http://blog.palladi.us/ # SREccardo Blog v1
 **Jekyll** ♦️
 
 * https://ricc-reads-the-news.netlify.app/ (this one, testing in 2025 an agile weekly blog)

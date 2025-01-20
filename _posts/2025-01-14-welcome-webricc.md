@@ -26,7 +26,7 @@ My only year propositions for 2025 are:
 
 * **work less**. Good luck with it.
 * **run a full marathon**. I'm done with Ironmen for a while, at least until my kids become independent in the morning.
-  Problem is, Zurich and Geneve are fully booked. Where should I go?
+  Problem is, Zurich and Geneve are fully booked. Where should I go? Maybe [Basel and run in 3 countries](https://3laenderlauf.org/en/marathon-3/)?
 
 ## Gen AI
 
