@@ -41,3 +41,14 @@ My only year propositions for 2025 are:
 
 [Webrick](https://github.com/ruby/webrick) is a very famous ruby gem for HTTP servers, so I thought this could be a fun
 alias for 2025 (*punxplaination*: at work, I go by ricc).
+
+## Jekyll
+
+This page is written in [Jekyll](https://jekyllrb.com/docs/). I was quite surprised by the [beautiful docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll), code and add-ons I found for jekyll and Github
+Pages. Some things I've learnt:
+
+* github pages rocks - but you can have only [one for free](https://github.com/palladius/palladius.github.io/actions).
+  For me it's https://github.com/palladius/palladius.github.io/actions
+* Github Actions are amazing. I particularly love the ability to call remote code from a GH repo (scary!)
+
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
