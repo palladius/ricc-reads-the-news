@@ -10,6 +10,9 @@ tags:
 image: https://raw.githubusercontent.com/palladius/ricc-reads-the-news/refs/heads/gh-pages/_posts/puffin-on-a-bike.png
 author: Riccardo
 comments: true
+description: >-
+  Welcome 2025! Whar are WebRicc's New Year Resolutions?
+
 ---
 
 ## What does 2025 bring?
