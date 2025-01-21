@@ -11,5 +11,12 @@ permalink: /about/
 
 * *What*: A weekly tech doc, similar to what my buddies Romin and Richard do.
 * *Opinions*: my own.
-* *Why*: **Why not?**. Jokes apart, DORA teaches me that it's easier and better to ship small and frequent.
+* *Why*: **Why not?**. Jokes apart, [DORA](https://cloud.google.com/developers/dora) teaches me that it's easier and better to ship small and frequent.
 
+
+
+
+## ✅ TODOs
+
+* 🔴 Riccardo, remind me to auto-summarize this blog with automated summaries, as you did for [ricc.rocks](https://ricc.rocks/)
+  using my [Geminocks](https://ricc.rocks/en/posts/medium/2024-11-11-geminocks-translating-my-hugo-site/) to-be-patented technology.
