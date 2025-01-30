@@ -12,3 +12,7 @@ install-jekflix:
 
 push:
 	git push origin gh-pages
+
+
+download-stuff:
+	git clone https://github.com/thiagorossener/jekflix-template vecchiume/jekflix-template-copy/ #tags-page

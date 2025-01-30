@@ -25,11 +25,14 @@ email: pal.ladiusbonto.n+rrtn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yet another technology Blog from a very opinionated Italian.
   On tech, politics and edibles.
+#google_analytics: "UA-XXXXXXXX-X"
 disqus_username: disqus_7JS1PTrMOB
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 #show_hero: true
 
 #baseurl: "/ricc-reads-the-news" # the subpath of your site, e.g. /blog
-#url: "https://palladius.github.io/ricc-reads-the-news/" # the base hostname & protocol for your site, e.g. http://example.com
 url: https://ricc-reads-the-news.netlify.app # without /
 twitter_username: palladius
 github_username:  palladius
@@ -38,6 +41,12 @@ linkedin_username:  riccardocarlesso
 instagram_username: palladius
 facebook_username: palladius
 medium_username: palladiusbonton
+
+tags:
+  - blog
+  - genai
+  - jekyll
+  - netlify
 
 # Build settings
 theme: jekflix
@@ -65,6 +74,7 @@ show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -72,6 +82,8 @@ permalink: /:title/
 collections:
   authors:
     output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
 use_logo: false
 
 # SASS
@@ -116,14 +128,18 @@ sass:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+# Riccardo
+  - vecchiume/
+  - 'initpost.sh'
+  - bin/
