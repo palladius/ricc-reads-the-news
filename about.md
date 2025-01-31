@@ -14,7 +14,10 @@ permalink: /about/
 * *Why*: **Why not?**. Jokes apart, [DORA](https://cloud.google.com/developers/dora) teaches me that it's easier and better to ship small and frequent.
 
 
+## Code
 
+* Code on github: [palladius/ricc-reads-the-news](https://github.com/palladius/ricc-reads-the-news)
+* Published on: [ricc-reads-the-news.netlify.app](https://ricc-reads-the-news.netlify.app/)
 
 ## ✅ TODOs
 
