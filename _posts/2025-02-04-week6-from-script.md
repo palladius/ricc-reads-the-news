@@ -8,7 +8,7 @@ subtitle: todo
 description: todo
 image: todo
 optimized_image:
-tags: weekly, blog, tech
+tags: weekly blog tech deepSeek
 author: Riccardo Carlesso
 paginate: true
 ---
