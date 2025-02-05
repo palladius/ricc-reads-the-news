@@ -6,5 +6,6 @@ description: A category for tutorial related posts.
 tags:
 - foo_rial
 - tuto_bar
-
+- tutorial
+- welcome
 ---
