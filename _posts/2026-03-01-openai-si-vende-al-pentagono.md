@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ethics? No Thanks. OpenAI Takes the Pentagon Contract That Anthropic Rejected."
-date: 2026-03-01 08:50:00 +0100
+date: 2026-03-01 07:50:00 +0100
 categories: ai ethics tech
 tags: [openai, anthropic, pentagon, ethics, ai, sam altman, hegsheth]
 ---
