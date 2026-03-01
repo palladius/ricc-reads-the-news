@@ -11,7 +11,7 @@ Carney, citando il saggio "Il potere dei senza potere" di Vaclav Havel, usa la p
 
 Questo è il "momento di rottura".
 
-![AI Tectonic Plates](./assets/2026-02-07-ai-rupture.png)
+![AI Tectonic Plates](/assets/2026-02-07-ai-rupture.png)
 
 Il parallelismo con il mondo dell'AI è geniale. Per anni, le grandi aziende del settore hanno messo in vetrina il loro slogan: "Sviluppiamo AI per il bene dell'umanità". E noi tutti, sviluppatori, utenti, investitori, abbiamo accettato questa narrazione. Era una finzione utile, che ha attirato capitali, talenti e ha permesso una crescita esplosiva.
 
