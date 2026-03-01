@@ -3,6 +3,7 @@ layout: post
 title: "Il Momento di Rottura dell'Intelligenza Artificiale"
 date: 2026-02-07 13:55:00 +0100
 categories: ai tech
+image: /assets/2026-02-07-ai-rupture.png
 ---
 
 Recentemente mi è capitato sotto gli occhi un articolo illuminante di Khadeeja Bassier che parlava del "momento di rottura" dell'AI, un concetto preso in prestito da un discorso di Mark Carney a Davos. L'idea, potente e terribilmente attuale, merita una riflessione.

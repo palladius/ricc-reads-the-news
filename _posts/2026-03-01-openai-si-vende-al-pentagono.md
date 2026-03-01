@@ -4,6 +4,7 @@ title: "Ethics? No Thanks. OpenAI Takes the Pentagon Contract That Anthropic Rej
 date: 2026-03-01 07:50:00 +0100
 categories: ai ethics tech
 tags: [openai, anthropic, pentagon, ethics, ai, sam altman, hegsheth]
+image: /assets/hegseth-terminator.png
 ---
 
 ![Hegseth as Terminator](/assets/hegseth-terminator.png)
