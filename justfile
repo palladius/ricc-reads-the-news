@@ -1,15 +1,10 @@
 
-
 # lists all targets
 list:
-    just -l 
+    just -l
 
-# Jekyll info...
-info:
-    bundle exec jekyll info
+default:
+	just --list
 
-# Jekyll serve...
-serve:
-    bundle exec jekyll serve
-
-# default: list
+test:
+	bundle exec ruby -I lib:test test/posts_test.rb

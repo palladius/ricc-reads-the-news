@@ -44,3 +44,9 @@ gem "kramdown-parser-gfm"
 #gem 'disqus'
 # Actually this seems more pertinent: https://github.com/fabiomux/jekyll-disqus-plugin
 gem "jekyll-disqus-plugin", "~> 1.0", :group => :jekyll_plugins
+
+group :test do
+  gem "minitest"
+end
+
+gem "rubocop", "~> 1.42", :group => :test
