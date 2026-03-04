@@ -7,8 +7,6 @@ tags: [openai, anthropic, pentagon, ethics, ai, sam altman, hegsheth]
 image: /assets/hegseth-terminator.png
 ---
 
-![Hegseth as Terminator](/assets/hegseth-terminator.png)
-
 This is the kind of news that makes your skin crawl, but unfortunately, it's no longer surprising. Let's lay it out, because it deserves it.
 
 The US Department of Defense (DoD), led by Secretary Pete Hegseth, knocks on the door of Anthropic, one of the leading AI companies, and basically asks them to throw their ethical "red lines" in the trash. The goal? To use their AI technology for military purposes, which translates to mass surveillance and autonomous weapons. Dystopian movie stuff, but apparently, it's the special of the day.
@@ -24,6 +22,8 @@ While Anthropic's seat is still warm, the CEO of OpenAI swoops in to sign a deal
 OpenAI's move is a masterpiece of opportunism and, let's be honest, a flat-out betrayal of the "safe and beneficial AGI for all humanity" mission they so loudly proclaimed. While one company gets cornered for its principles, another cashes in and cozies up to power.
 
 This episode marks a point of no return. The mask has fallen. OpenAI has chosen a side, and it's not humanity's. It's the side of the highest bidder, even if that means arming the world's most powerful military with technology whose consequences we don't yet fully understand.
+
+![Hegseth as Terminator](/assets/hegseth-terminator.png)
 
 Very nice! (cit.)
 
