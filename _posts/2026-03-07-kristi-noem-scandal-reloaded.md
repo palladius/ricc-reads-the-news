@@ -4,7 +4,7 @@ title: "Kristi Noem: The Fall of a Secretary Amid Scandals and Golden Contracts"
 date: 2026-03-07 10:45:00 +0100
 categories: [politics, usa]
 tags: [kristi noem, trump, ice, scandal, corruption]
-image: /assets/images/2026-03-07-noem-scandal-cover.png
+image: /assets/images/image.png
 description: "Analysis of the fall of Kristi Noem, Secretary of Homeland Security, overwhelmed by a scandal over million-dollar contracts and a frayed relationship with the Trump administration."
 ---
 
