@@ -24,6 +24,18 @@ class PostsTest < Minitest::Test
           # Ensure there is an actual value for it
           refute_empty frontmatter['image'].to_s.strip,
                        "Post #{File.basename(file)} has an 'image' property but it is empty."
+
+          # Check if the image actually exists on disk
+          image_path = frontmatter['image'].to_s.strip
+          if image_path.start_with?('http://', 'https://')
+            # It's an external URL, skip local file check
+            assert true
+          else
+            # The image path in frontmatter usually starts with a slash like /assets/image.png
+            # We need to resolve it relative to the root directory
+            full_image_path = File.join(File.expand_path('..', __dir__), image_path)
+            assert File.exist?(full_image_path), "Image #{image_path} specified in #{File.basename(file)} does not exist at #{full_image_path}"
+          end
         rescue Psych::SyntaxError => e
           flunk "Failed to parse YAML frontmatter in #{file}: #{e.message}"
         end
