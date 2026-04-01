@@ -4,7 +4,7 @@ title: "Kakistocracy in Action: Trump Bombs Iran as Epstein Files Loom"
 date: 2026-03-02 14:04:00 +0100
 categories: politics tech war
 tags: [trump, iran, epstein, wag-the-dog, geopolitics, kakistocracy]
-image: /assets/placeholder.png
+image: /assets/images/2026-03-02-wag-the-dog-iran.png
 description: "Just as the world was focused on the Epstein files, a massive military strike on Iran conveniently changes the headline. Coincidence, or a textbook case of a kakistocracy at work?"
 ---
 
