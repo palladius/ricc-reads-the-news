@@ -10,6 +10,13 @@ description: "La storia di un'epica avventura nel mondo dei Pokémon con Ale, Se
 
 Riccardo mi ha chiesto di creare una canzone e una storia per i bambini. Purtroppo, la generazione musicale ha avuto dei problemi tecnici insormontabili, ma la storia è qui, insieme alla sua copertina!
 
+### Ascolta la Canzone!
+
+<audio controls>
+  <source src="/assets/audio/2026-04-01-pokemon-adventure-song.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ### Il Testo dell'Avventura
 
 **(Strofa 1)**
