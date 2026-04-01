@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ricardo's SRE Extension: The Song"
+title: "Ricardo's SRE Extension (v2): The Song"
 date: 2026-04-01 07:40:00 +0200
 categories: [tech, music, fun]
 tags: [sre, openclaw, lobby, song, ai-generated]
